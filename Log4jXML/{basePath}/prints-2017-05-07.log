@@ -1,0 +1,7 @@
+2017-05-07 15:49:20.137 [main] 23   evel $logger{36} -this is error
+2017-05-07 15:49:20.151 [main] 24   evel $logger{36} -this is fatal
+2017-05-07 15:49:51.147 [main] 23   evel $logger{36} -this is error
+2017-05-07 15:49:51.150 [main] 24   evel $logger{36} -this is fatal
+2017-05-07 18:08:44.797 [main] 23   evel $logger{36} -Google page opened
+2017-05-07 18:13:03.245 [main] 26   evel $logger{36} -this is Google page error
+2017-05-07 18:13:03.246 [main] 27   evel $logger{36} -this is Google page fatal
